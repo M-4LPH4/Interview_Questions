@@ -11,5 +11,6 @@ public class SwapTest {
 		y=temp;
 		System.out.println(x+","+y);
 		System.out.println(2%3);
+		System.out.println("SWAPPING COMPLETED!");
 	}
 }
